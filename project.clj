@@ -1,4 +1,4 @@
-(defproject jarohen/ringless "0.0.1-SNAPSHOT"
+(defproject jarohen/ringless "0.0.1-alpha1"
   :description "A micro-library to serve/compile LESS styles"
   :url "https://github.com/jarohen/ringless"
 
